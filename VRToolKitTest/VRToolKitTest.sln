@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRToolKitTest", "VRToolKitTest.csproj", "{3E6ADC29-68AD-A2A9-D3BB-78FBAFD307C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRToolKitTest.Editor", "VRToolKitTest.Editor.csproj", "{137EEB7E-E02F-9A59-F60C-CCC3C6C610C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6ADC29-68AD-A2A9-D3BB-78FBAFD307C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6ADC29-68AD-A2A9-D3BB-78FBAFD307C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6ADC29-68AD-A2A9-D3BB-78FBAFD307C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6ADC29-68AD-A2A9-D3BB-78FBAFD307C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137EEB7E-E02F-9A59-F60C-CCC3C6C610C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137EEB7E-E02F-9A59-F60C-CCC3C6C610C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137EEB7E-E02F-9A59-F60C-CCC3C6C610C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137EEB7E-E02F-9A59-F60C-CCC3C6C610C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
